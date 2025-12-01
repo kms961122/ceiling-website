@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.g1 {
+    position: fixed;
+    top: 0;
+    left: 0%;
+    width: 19%;
+    height: 100%;
+    background-image: url('image/g1.png');
+    background-size: cover;
+}
+
+.g2 {
+    position: fixed;
+    top: 0;
+    left: 19%;
+    width: 45%;
+    height: 100%;
+    background-image: url('image/g2.png');
+    background-size: cover;
+}
+
+.g3 {
+    position: fixed;
+    top: 0;
+    left: 64%;
+    width: 12%;
+    height: 100%;
+    background-image: url('image/g3.png');
+    background-size: cover;
+}
+
+.g4 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 24%;
+    height: 77%;
+    background-image: url('image/g4.png');
+    background-size: cover;
+}
+
+.g5 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 24%;
+    height: 23%;
+    background-image: url('image/g5.png');
+    background-size: cover;
+}
